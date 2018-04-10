@@ -1,14 +1,14 @@
-# **Michael K. Cook**
+# **Michael K. Cook** 
 
 ```powershell
 	541-111-1111			Cookm2@oregonstate.edu		1111 NW Grant Ave. Covallis, Or 97311
 ```
 
-#####**Profile** 
+#####**Profile**  
 
 Adventurous, friendly and hardworking person seeking a position within my field while continuing my education at Oregon State University. 
 
-#####**Experience** 
+#####**Experience**  
 
 > Marketing Team member, Rebound Physical Therapy, Bend, OR, 2014 - 2016
 >
@@ -28,19 +28,19 @@ Adventurous, friendly and hardworking person seeking a position within my field 
 
 * Leader of a five man reconnaissance team. Held a Secret Clearance in order to conduct sensitive operations within multiple areas of operation. Meritoriously promoted twice for actions conducted both state-side and overseas. 
 
-##### **Education**
+##### **Education** 
 
 * Oregon State University - College of Forestry, Natural Resources: Landscape Analysis - 2016 - Present 
 * Central Oregon Community College - Emergency Medical Technician - 2011
 
-##### **Skills**
+##### **Skills** 
 
 1. Ability to adapt to different scenarios quickly
 2. Experience working with handheld tools and operating heavy machinery 
 3. Work well within a group, but reliable and efficient while working alone
 4. Able to follow orders accurately with high attention to detail
 
-##### **References**
+##### **References** 
 
 |    Contact     |         Position         |    Company     |    Phone     |
 | :------------: | :----------------------: | :------------: | :----------: |
